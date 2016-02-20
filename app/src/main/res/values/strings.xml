@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">My Posty</string>
+    <string name="emailid_label">Email ID</string>
+    <string name="password_label">Password</string>
+    <string name="logincommand_label">Login</string>
+    <string name="registercommand_label">Register Now</string>
 </resources>
